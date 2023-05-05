@@ -42,7 +42,7 @@
     margin: 4rem 2rem;
   }
   .tripCard {
-    felx-direction: column;
+    flex-direction: column;
   }
   .t-card {
     width: 100%;
